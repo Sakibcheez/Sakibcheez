@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Sakib Ahmed Shishir** (Sakibcheez)  
 
-🚀 **Undergraduate CSE Student | Aspiring Software Engineer | AI & Systems Enthusiast**  
+🚀 **Undergraduate CSE Student at NSU | Aspiring Software Engineer | AI & Systems Enthusiast**  
 
 I am an enthusiastic learner with a strong passion for **programming, algorithms, software development, AI, and system design**.  
 Currently pursuing my studies at **North South University**, I balance my time between academic projects, personal coding, and private tutoring.  
@@ -10,17 +10,17 @@ Currently pursuing my studies at **North South University**, I balance my time b
 
 ## 🧑‍💻 **About Me**
 - 🎓 Undergraduate student in **Computer Science & Engineering** at NSU.  
-- 🏫 Experienced **private tutor** (SSC, HSC, and university students – C, C++, Java, Python).  
+- 🏫 Experienced **private tutor** (SSC, HSC, and university students – C, C++, Java, HTML).  
 - 🌟 Formerly part of **English Olympiad Bangladesh (Campus Ambassador & Logistics Head)**.  
-- 🤝 Active member of **NSUCEC, ACM NSU Student Chapter, and NSU Sangskriti Shangha**.  
-- ⚡ Passionate about **algorithms, AI projects, embedded systems, and software engineering**.  
+- 🤝 Active member of **IEEE NSU, IEEE IAS, ACM NSU Student Chapter, and NSU Sangskriti Shangha**.  
+- ⚡ Passionate about **Web Development, algorithms, AI projects, embedded systems, and software engineering**.  
 - 🌍 Curious mind who enjoys **astronomy, physics, and computer science content**.  
 - 🧩 Motto: *Hard work, dedication, and consistency bring success.*  
 
 ---
 
 ## 🛠️ **Tech Stack & Skills**
-- **Languages:** C, C++, Java, Python, PHP, JavaScript, SQL, HTML, CSS  
+- **Languages:** C, C++, Java, PHP, JavaScript, SQL, HTML, CSS, SQL 
 - **Frameworks & Tools:** AutoCAD, Git/GitHub, MySQL, OOP, Data Structures & Algorithms  
 - **Interests:** AI, System Design, Web Development, Networking, Digital Logic  
 
@@ -58,13 +58,13 @@ Here’s a quick showcase of my works and projects 👇
 
 ### 📦 Miscellaneous
 - ⚙️ [Sakibcheez](https://github.com/Sakibcheez/Sakibcheez) – My GitHub profile configuration repo.  
-- 📚 [desktop-tutorial](#) – GitHub desktop learning repo.  
+
 
 ---
 
 ## 🏆 **Achievements**
 - 🏅 Campus Ambassador & Team Head @ **English Olympiad Bangladesh**  
-- 🛠️ Active contributor to **NSU clubs & organizations** (CEC, ACM, SS).  
+- 🛠️ Active contributor to **NSU clubs & organizations** (IEEE, ACM, SS).  
 - 🎯 Designed multiple projects in **C, C++, Java, Python, PHP, SQL**.  
 - 📖 Mentor & guide for **university juniors & school/college students**.  
 
@@ -73,7 +73,9 @@ Here’s a quick showcase of my works and projects 👇
 ## 🌐 **Connect with Me**
 - 💼 [LinkedIn](https://www.linkedin.com/in/sakib-ahmed-20337624a)  
 - 🐦 Instagram: [sakib_beez](https://www.instagram.com/sakib_beez)  
-- 📧 Email: **sakib.ahmed.shishir17@gmail.com**  
+- 📧 Email: **asakib784@gmail.com*
+- Facebook:   https://www.facebook.com/sakib.ahmed.shishir17/
+- Contact: +8801858252192 
 
 ---
 
