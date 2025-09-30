@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Certificates & Achievements · Sakib Ahmed Shishir</title>
+    <meta name="description" content="Certificates and achievements of Sakib Ahmed Shishir." />
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+    <header class="site-header">
+        <a class="brand" href="index.html">Sakib<span>Shishir</span></a>
+        <nav class="nav" aria-label="Primary">
+            <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+            <ul class="nav-list">
+                <li><a href="index.html#about">About</a></li>
+                <li><a href="index.html#projects">Projects</a></li>
+                <li><a href="index.html#contact">Contact</a></li>
+                <li><a href="certificates.html" aria-current="page">Certificates</a></li>
+            </ul>
+        </nav>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+    </header>
+
+    <main>
+        <section class="section">
+            <div class="container">
+                <h1 class="headline-anim"><span class="line">Certificates</span> <span class="line">& Achievements</span></h1>
+                <p class="subhead">Upload images or add links to showcase your credentials.</p>
+                <div class="grid three-col" id="certGrid">
+                    <!-- Sample items (replace with your own) -->
+                    <article class="card tilt">
+                        <img src="https://picsum.photos/seed/cert1/800/600" alt="Certificate sample" />
+                        <h3>Scholarship Award</h3>
+                        <p>50% Scholarship Holder</p>
+                    </article>
+                    <article class="card tilt">
+                        <img src="https://picsum.photos/seed/cert2/800/600" alt="Certificate sample" />
+                        <h3>Workshop/Training</h3>
+                        <p>Replace with your certificate</p>
+                    </article>
+                    <article class="card tilt">
+                        <img src="https://picsum.photos/seed/cert3/800/600" alt="Certificate sample" />
+                        <h3>Achievement</h3>
+                        <p>Replace with your achievement</p>
+                    </article>
+                </div>
+
+                <div class="section" style="padding-top: 32px; padding-bottom: 0;">
+                    <h2>Add more</h2>
+                    <p>Place your certificate images in an `assets/certificates/` folder and reference them here. Example:</p>
+                    <pre><code>&lt;article class="card tilt"&gt;
+  &lt;img src="assets/certificates/my-cert.jpg" alt="My Certificate" /&gt;
+  &lt;h3&gt;Title&lt;/h3&gt;
+  &lt;p&gt;Issuer · Year&lt;/p&gt;
+&lt;/article&gt;</code></pre>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>© <span id="year"></span> Sakib Ahmed Shishir. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script>
+        // Optional: set hero-less page reveal
+        document.querySelectorAll('.card, .headline-anim').forEach(function(el) {
+            el.classList.add('reveal');
+        });
+    </script>
+</body>
+</html>
+
+
