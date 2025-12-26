@@ -9,7 +9,8 @@ Currently pursuing my studies at **North South University**, I balance my time b
 ---
 
 ## 🧑‍💻 **About Me**
-- 🎓 Undergraduate student in **Computer Science & Engineering** at NSU  
+- 🎓 Undergraduate student in **Computer Science & Engineering** at NSU
+- 🎓 HSC : Notre Dame College || SSC : Rajuk Uttara Model College 
 - 🏫 Experienced **private tutor** (SSC, HSC, and university students – C, C++, Java, HTML)  
 - 🌟 Former **Campus Ambassador & Logistics Head** at **English Olympiad Bangladesh**  
 - 🤝 Active member of **IEEE NSU, IEEE IAS, ACM NSU Student Chapter, and NSU Sangskriti Shangha**  
